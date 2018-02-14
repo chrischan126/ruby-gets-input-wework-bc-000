@@ -2,4 +2,5 @@ def greeting
   puts "Hi, #{name}! Welcome to the wonderful world of Ruby programming."
 end
 
-name = input.gets.strip
+name = gets.strip
+
